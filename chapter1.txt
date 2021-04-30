@@ -1,1 +1,1 @@
-Some sample text
+Some sample text changed to work with branch

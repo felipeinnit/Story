@@ -1,1 +1,1 @@
-Sample text file 3
+Sample text file 3 changed to work with branch
